@@ -1,46 +1,48 @@
-# Título do projeto
+# Projeto de Previsão de Sucesso em Telemarketing
 
-Um simples resumo do uso/propósito do projeto.
+Este projeto utiliza dados históricos de campanhas de telemarketing para prever a probabilidade de sucesso, empregando técnicas de machine learning.
 
-## Descrição do projeto
+## Descrição
+A aplicação tem como objetivo ajudar empresas a identificar clientes mais propensos a aderirem às campanhas. O projeto faz uso de um modelo de classificação para prever se um cliente aceitará uma oferta.
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
 
-## link para aplicaçao 
+## Acesse a aplicação aqui 
 https://telemarketing-j8hj.onrender.com/
+
 ## Utilização
-
 ### Dependencias
-
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+Dependências
+Python 3.x
+Principais bibliotecas:
+pandas
+scikit-learn
+Flask
 
 ### Instalação
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+Clone o repositório:
 
-### Executando o projeto
+git clone https://github.com/edudatalytics/telemarketing.git
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+Navegue até a pasta do projeto:
+
+cd telemarketing
+
+Instale as dependências necessárias:
+
+pip install -r requirements.txt
+
+Inicie a aplicação localmente:
+
+python app.py
 
 ## Ajuda
 
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
+Em caso de erros durante a execução, verifique as bibliotecas instaladas e suas versões. Caso persista, entre em contato.
 
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+Eduardo Matos (@edudatalytics)
 
 ## Histórico de versões.
 
@@ -49,16 +51,3 @@ ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
 * 0.1
     * Primeira versão
 
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
-
-## Fontes de inspiração
-
-Inspiração, trechos de códigos utilizados, etc.
-* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
