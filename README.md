@@ -6,6 +6,7 @@ Este projeto utiliza dados históricos de campanhas de telemarketing para prever
 A aplicação tem como objetivo ajudar empresas a identificar clientes mais propensos a aderirem às campanhas. O projeto faz uso de um modelo de classificação para prever se um cliente aceitará uma oferta.
 
 
+
 ## Acesse a aplicação aqui 
 https://telemarketing-j8hj.onrender.com/
 
